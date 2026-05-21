@@ -1,15 +1,21 @@
-# What is this?
+# GenAI Legal Work Research
 
-The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
+This repository collects notes, frameworks, sources, interview questions, process maps, and practical experiments related to the use of Generative AI in legal and institutional work.
 
-There are two ways to go directly to a VS Code environment in your browser and start coding:
+## Main focus
 
-* Press the . key on any repository or pull request.
-* Swap `.com` with `.dev` in the URL. For example, this repo https://github.com/github/dev becomes http://github.dev/github/dev
+- GenAI adoption in legal work
+- Public administration and legal departments
+- Legal task mapping
+- Productivity and risk perception
+- Organisational decision-making
+- Professional role transformation
 
-Preview the gif below to get a quick demo of github.dev in action.
+## Working folders
 
-![github dev](https://user-images.githubusercontent.com/856858/130119109-4769f2d7-9027-4bc4-a38c-10f297499e8f.gif)
-
-# Why?
-It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help).
+- 01-literature-notes
+- 02-interview-questions
+- 03-process-maps
+- 04-use-cases
+- 05-prompts
+- 06-draft-outputs
